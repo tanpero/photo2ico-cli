@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tanpero/photo2ico-cli.git"
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/tanpero/photo2ico-cli/issues"
   },
-  "homepage": "https://github.com/tanpero/photo2ico-cli#readme"
+  "homepage": "https://github.com/tanpero/photo2ico-cli#readme",
+  "dependencies": {
+    "icojs": "^0.19.3",
+    "jimp": "^0.22.10",
+    "sharp": "^0.33.2"
+  }
 }
