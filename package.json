@@ -1,0 +1,19 @@
+{
+  "name": "photo2ico-cli",
+  "version": "1.0.0",
+  "description": "A command line application to convert photo file to icon file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanpero/photo2ico-cli.git"
+  },
+  "author": "Camille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanpero/photo2ico-cli/issues"
+  },
+  "homepage": "https://github.com/tanpero/photo2ico-cli#readme"
+}
